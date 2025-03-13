@@ -170,3 +170,9 @@ Explore the dataset, visualizations, and full analysis in this repository.
 
 Contributions, feedback, and discussions are welcome!
 
+LinkedIn: https://www.linkedin.com/in/giftchisom
+
+GitHub: https://www.github.com/Gift70
+
+Email: giftohamazue1@gmail.com
+
