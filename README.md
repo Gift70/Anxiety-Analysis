@@ -1,6 +1,6 @@
 Anxiety Attack Analysis
 
-TECHNOLOGY USED:  MICROSOFT Excel
+TECHNOLOGY USED:  Microsoft Excel
 
 INTRODUCTION
 
